@@ -1,0 +1,67 @@
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Rider
+.idea/
+
+# Visual Studio cache/options
+*.VC.db
+*.VC.VC.opendb
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+!**/packages/build/**
+
+# Build generated files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.log
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.vspscc
+*.vssscc
+
+# Publish outputs
+publish/
+
+# Rider and ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# dotnet core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Temporary files
+*.tmp
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio Code
+.history/
+
+# All secrets (keeps common secret files out)
+secrets.json
+.env
+
+# Mac
+.DS_Store
