@@ -1,7 +1,9 @@
 # CT Ban Plugin for Counter-Strike 2
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roflmuffin/CounterStrikeSharp/master/docs/images/logo.png" alt="CounterStrikeSharp Logo" width="200"/>
+  <a href="https://github.com/roflmuffin/CounterStrikeSharp">
+    <img src="https://img.shields.io/badge/CounterStrikeSharp-Plugin-blue?logo=github" alt="CounterStrikeSharp" />
+  </a>
 </p>
 
 A Counter-Strike 2 plugin that allows administrators to ban players from joining the Counter-Terrorist (CT) team only.
